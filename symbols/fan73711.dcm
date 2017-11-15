@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FAN73711
+D High-Current, High-Side Gate Drive IC, SO-8
+K Gate Drive, MOSFET Driver
+F http://www.mouser.com/ds/2/149/FAN73711-1006951.pdf
+$ENDCMP
+#
+#End Doc Library

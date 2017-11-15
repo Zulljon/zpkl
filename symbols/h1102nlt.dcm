@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP H1102NLT
+D Ethernet magnetic thansformer, 10/100BASE-T
+K H1102HL
+$ENDCMP
+#
+#End Doc Library

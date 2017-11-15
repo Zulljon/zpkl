@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2575S-5.0_NOPB
+D SIMPLE SWITCHER 4.5V to 40V, 1A Low Component Count Step-Down Regulator
+F http://www.ti.com/lit/gpn/lm2596
+$ENDCMP
+#
+#End Doc Library

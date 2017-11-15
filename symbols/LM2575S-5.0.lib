@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LM2575S-5.0
+#/588574/22060/2.16/6/0/Integrated Circuit
+DEF LM2575S-5.0 IC 0 30 Y Y 1 F N
+F0 "IC" 500 150 50 H V C CNN
+F1 "LM2575S-5.0" 500 -350 50 H V C CNN
+F2 "TO170P1435X457-6N" 500 -450 50 H I C CNN
+F3 "" 500 -550 50 H I C CNN
+F4 "Step-Down Voltage Regulator" 500 -650 50 H I C CNN "Description"
+F5 "RS" 500 -750 50 H I C CNN "Supplier_Name"
+F6 "" 500 -850 50 H I C CNN "RS Part Number"
+F7 "National Semiconductor" 500 -950 50 H I C CNN "Manufacturer_Name"
+F8 "LM2575S-5.0" 500 -1050 50 H I C CNN "Manufacturer_Part_Number"
+F9 "" 500 -1150 50 H I C CNN "Allied_Number"
+F10 "" 500 -1250 50 H I C CNN "Other Part Number"
+F11 "" 850 -1350 50 H I C CNN "Height"
+DRAW
+S 200 100 800 -300 0 0 10 f
+X COMP 1 0 0 200 R 50 50 0 0 U
+X FB 2 0 -100 200 R 50 50 0 0 U
+X GND_2 3 0 -200 200 R 50 50 0 0 U
+X SW 4 1000 0 200 L 50 50 0 0 U
+X VIN 5 1000 -100 200 L 50 50 0 0 U
+X GND 6 1000 -200 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+#End Library

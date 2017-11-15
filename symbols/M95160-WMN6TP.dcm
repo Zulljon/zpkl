@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M95160-WMN6TP
+D M95160-WMN6TP, Serial EEPROM Memory 16kbit, Serial-SPI, 40ns 2.5  5.5 V, 8-Pin SOIC
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00043980.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model L7805ABD2T-TR
+#/221791/22060/2.16/3/3/Integrated Circuit
+DEF L7805ABD2T-TR IC 0 30 Y Y 1 F N
+F0 "IC" 700 150 50 H V C CNN
+F1 "L7805ABD2T-TR" 700 -250 50 H V C CNN
+F2 "TO254P1542X460-3N" 700 -350 50 H I C CNN
+F3 "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf" 700 -450 50 H I C CNN
+F4 "Voltage Regulator 5V 2% 1.5A D2PAK L7805ABD2T-TR, Linear Voltage Regulator, Current Limit, Shut-Down 1.5A 5 V, 2-Pin D2PAK" 700 -550 50 H I C CNN "Description"
+F5 "RS" 700 -650 50 H I C CNN "Supplier_Name"
+F6 "7931342P" 700 -750 50 H I C CNN "RS Part Number"
+F7 "STMicroelectronics" 700 -850 50 H I C CNN "Manufacturer_Name"
+F8 "L7805ABD2T-TR" 700 -950 50 H I C CNN "Manufacturer_Part_Number"
+F9 "70407657" 700 -1050 50 H I C CNN "Allied_Number"
+F10 "" 700 -1150 50 H I C CNN "Other Part Number"
+F11 "4.6" 1250 -1250 50 H I C CNN "Height"
+DRAW
+S 200 100 1200 -200 0 0 10 f
+X INPUT 1 0 0 200 R 50 50 0 0 I
+X OUTPUT 3 0 -100 200 R 50 50 0 0 O
+X GND_(TAB) 4 1400 0 200 L 50 50 0 0 W
+ENDDRAW
+ENDDEF
+#
+#End Library

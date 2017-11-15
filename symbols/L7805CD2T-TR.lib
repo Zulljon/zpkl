@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model L7805CD2T-TR
+#/179425/22060/2.16/3/3/Integrated Circuit
+DEF L7805CD2T-TR IC 0 30 Y Y 1 F N
+F0 "IC" 550 150 50 H V C CNN
+F1 "L7805CD2T-TR" 550 -250 50 H V C CNN
+F2 "TO254P1542X460-3N" 550 -350 50 H I C CNN
+F3 "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf" 550 -450 50 H I C CNN
+F4 "L7805CD2T-TR, Linear Voltage Regulator, 1.5A 5 V, 3-Pin D2PAK" 550 -550 50 H I C CNN "Description"
+F5 "RS" 550 -650 50 H I C CNN "Supplier_Name"
+F6 "7140657" 550 -750 50 H I C CNN "RS Part Number"
+F7 "STMicroelectronics" 550 -850 50 H I C CNN "Manufacturer_Name"
+F8 "L7805CD2T-TR" 550 -950 50 H I C CNN "Manufacturer_Part_Number"
+F9 "70390052" 550 -1050 50 H I C CNN "Allied_Number"
+F10 "" 550 -1150 50 H I C CNN "Other Part Number"
+F11 "4.6" 950 -1250 50 H I C CNN "Height"
+DRAW
+S 200 100 900 -200 0 0 10 f
+X INPUT 1 0 0 200 R 50 50 0 0 O
+X OUTPUT 3 0 -100 200 R 50 50 0 0 W
+X GND 4 1100 0 200 L 50 50 0 0 I
+ENDDRAW
+ENDDEF
+#
+#End Library

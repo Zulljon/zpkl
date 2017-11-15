@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TJA1040T
+D TJA1040T, High-Speed CAN Transceiver, standby mode, split pin, SOIC-8
+K High-Speed CAN Transceiver
+F http://www.nxp.com/documents/data_sheet/TJA1040.pdf
+$ENDCMP
+#
+#End Doc Library

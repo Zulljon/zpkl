@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP2551-I_SN
+D High Speed CAN Transceiver,MCP2551-I/SN
+K
+F http://docs-europe.electrocomponents.com/webdocs/0a78/0900766b80a78cdb.pdf
+$ENDCMP
+#
+#End Doc Library
