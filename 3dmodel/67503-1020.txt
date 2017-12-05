@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-06072016-103844";"";
+"REFERENCE";"67503-1020";"";
+"TraceParts.PartTitle";"0.8mm USB OTG Mini B SMT R/A Sol Tab";"";
+"TraceParts.InstanceId";"10-06072016-1038449MPY7NR74A3MWC16XPKK9H2IQ";"";
+"DESIGN";"0.8mm USB OTG Mini B SMT R/A Sol Tab";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"molex";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"MOLEX:/TRACEPARTS/TP10/TP10011/TP10011004/10-06072016-103844";"";

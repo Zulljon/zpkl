@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-26112014-111120";"";
+"REFERENCE";"1-1734035-1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartTitle";"Serial I/O Connectors Mini USB,R/A,SMT,B Type,pbFree";"";
+"TraceParts.InstanceId";"10-26112014-111120QZQMX5AP31ARN6M7UWSGHU";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"TE_CONNECTIVITY:/TE_CONNECTIVITY/TE_CONNECTIVITY.180/10-26112014-111120";"";
+"SUPPLIER";"TE Connectivity";"";
+"DESIGN";"Serial I/O Connectors Mini USB,R/A,SMT,B Type,pbFree";"";
+"TraceParts.PartVersion";"1.0.5";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
