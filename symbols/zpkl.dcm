@@ -1,0 +1,95 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 54819-0572
+D Surface mount onthego connector,1A 30V Molex On-The-Go Series Right Angle SMT Version 2.0 Type B Mini USB Connector Receptacle, 30 V, 1A
+F http://www.molex.com/webdocs/datasheets/pdf/en-us/0548190572_IO_CONNECTORS.pdf
+$ENDCMP
+#
+$CMP 74HC4050D
+D 74HC4050D, 6-Bit Buffer, Converter, HC, Non-Inverting 2 to 6V 16-Pin SOIC
+F http://www.nxp.com/documents/data_sheet/74HC4050.pdf
+$ENDCMP
+#
+$CMP BSP742R
+D Smart High-Side Power Switch 34V DSO-8 BSP742R, Intelligent Power Switch High Side Switch, 0.4A, -10 ??? 16V, 8-Pin, PG-DSO-8-24
+F http://docs-europe.electrocomponents.com/webdocs/1074/0900766b8107439c.pdf
+$ENDCMP
+#
+$CMP E-L9637D
+D Monolithic Bus Driver ISO 9141 Interface
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000234.pdf
+$ENDCMP
+#
+$CMP FAN73711
+D High-Current, High-Side Gate Drive IC, SO-8
+K Gate Drive, MOSFET Driver
+F http://www.mouser.com/ds/2/149/FAN73711-1006951.pdf
+$ENDCMP
+#
+$CMP H1102NLT
+D Ethernet magnetic thansformer, 10/100BASE-T
+K H1102HL
+$ENDCMP
+#
+$CMP IRF7201PBF
+D 30V Vds, 14A Id, HEXFET MOSFET, SO-8
+K HEXFET N-Channel MOSFET
+F http://www.irf.com/product-info/datasheets/data/irf8721pbf-1.pdf
+$ENDCMP
+#
+$CMP ISP742RI
+D Smart High-Side Power Switch 34V DSO-8 ISP742RI, Intelligent Power Switch High Side Switch, 0.4A, -10 ??? 16V, 8-Pin, PG-DSO-8-24
+F http://docs-europe.electrocomponents.com/webdocs/1074/0900766b8107439c.pdf
+$ENDCMP
+#
+$CMP L7805ABD2T-TR
+D Voltage Regulator 5V 2% 1.5A D2PAK L7805ABD2T-TR, Linear Voltage Regulator, Current Limit, Shut-Down 1.5A 5 V, 2-Pin D2PAK
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf
+$ENDCMP
+#
+$CMP L7805CD2T-TR
+D L7805CD2T-TR, Linear Voltage Regulator, 1.5A 5 V, 3-Pin D2PAK
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf
+$ENDCMP
+#
+$CMP LM2575S-5.0
+D Step-Down Voltage Regulator
+$ENDCMP
+#
+$CMP LM2575S-5.0_NOPB
+D SIMPLE SWITCHER 4.5V to 40V, 1A Low Component Count Step-Down Regulator
+F http://www.ti.com/lit/gpn/lm2596
+$ENDCMP
+#
+$CMP LM2596SX-5.0_NOPB
+D SIMPLE SWITCHER 4.5V to 40V, 3A Low Component Count Step-Down Regulator
+F http://www.ti.com/lit/gpn/lm2596
+$ENDCMP
+#
+$CMP MCP2551-I_SN
+D High Speed CAN Transceiver,MCP2551-I/SN
+F http://docs-europe.electrocomponents.com/webdocs/0a78/0900766b80a78cdb.pdf
+$ENDCMP
+#
+$CMP RTL8201CP
+D Realtek single-port Phyceiver with MII, PCS, PMA, TP-PMD, TPMAU, 25MHz, 3.3V
+K phyceiver MII PCS PMA TP-PMD TPMAU
+$ENDCMP
+#
+$CMP TJA1040T
+D TJA1040T, High-Speed CAN Transceiver, standby mode, split pin, SOIC-8
+K High-Speed CAN Transceiver
+F http://www.nxp.com/documents/data_sheet/TJA1040.pdf
+$ENDCMP
+#
+$CMP USB-B1HSW6
+D USB - B type, horixontal, thru - hole
+F http://www.on-shore.com/wp-content/uploads/2015/09/usb-b1hsxx.pdf
+$ENDCMP
+#
+$CMP UX60-MB-5ST
+D USB 2.0
+F http://www.farnell.com/datasheets/1824852.pdf
+$ENDCMP
+#
+#End Doc Library
