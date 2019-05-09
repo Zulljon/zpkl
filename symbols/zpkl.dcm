@@ -116,6 +116,21 @@ D Realtek single-port Phyceiver with MII, PCS, PMA, TP-PMD, TPMAU, 25MHz, 3.3V
 K phyceiver MII PCS PMA TP-PMD TPMAU
 $ENDCMP
 #
+$CMP SIM808
+D GSM GPRS CELLULAR MODULE
+F http://simcom.ee/documents/SIM808/SIM808_Hardware%20Design_V1.02.pdf
+$ENDCMP
+#
+$CMP SIM868
+D Module: GSM/GLONASS; GPRS; 2G; 1800MHz,900MHz; 85.6kbps; -4085C
+F http://simcom.ee/documents/SIM868/SIM868_Series_Hardware_Design_V1.06.pdf
+$ENDCMP
+#
+$CMP SIM868E
+D Module: GSM/GLONASS; GPRS; 2G; 1800MHz,900MHz; 85.6kbps; -4085C
+F http://simcom.ee/documents/SIM868/SIM868_Series_Hardware_Design_V1.06.pdf
+$ENDCMP
+#
 $CMP STM32F105R8Tx
 D Core: ARM Cortex-M3 Package: LQFP64 Flash: 64KB Ram: 64KB Frequency: 72MHz Voltage: 2..3.6V IO-pins: 51
 K ARM Cortex-M3 STM32F1 STM32F105/107
