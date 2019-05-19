@@ -67,6 +67,16 @@ K HEXFET N-Channel MOSFET
 F http://www.irf.com/product-info/datasheets/data/irf8721pbf-1.pdf
 $ENDCMP
 #
+$CMP IRF7205
+D -30V Vds, -4.6 A Id, P-Channel MOSFET, SOIC-8
+K P-Channel MOSFET
+$ENDCMP
+#
+$CMP IRF7205PBF
+D -30V Vds, -4.6 A Id, P-Channel MOSFET, SOIC-8
+K P-Channel MOSFET
+$ENDCMP
+#
 $CMP ISP742RI
 D Smart High-Side Power Switch 34V DSO-8 ISP742RI, Intelligent Power Switch High Side Switch, 0.4A, -10 ??? 16V, 8-Pin, PG-DSO-8-24
 F http://docs-europe.electrocomponents.com/webdocs/1074/0900766b8107439c.pdf
