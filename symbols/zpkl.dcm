@@ -50,6 +50,11 @@ D Monolithic Bus Driver ISO 9141 Interface
 F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000234.pdf
 $ENDCMP
 #
+$CMP EEC-RG0V105VN
+D Supercapacitors / Ultracapacitors FACTORY NOT ACCEPTING ORDERS
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDG0000/ABC0000C81.pdf
+$ENDCMP
+#
 $CMP FAN73711
 D High-Current, High-Side Gate Drive IC, SO-8
 K Gate Drive, MOSFET Driver
