@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 0470230001
+D SIM Card Connectors
+F https://www.molex.com/pdm_docs/sd/470230001_sd.pdf
+$ENDCMP
+#
 $CMP 54819-0572
 D Surface mount onthego connector,1A 30V Molex On-The-Go Series Right Angle SMT Version 2.0 Type B Mini USB Connector Receptacle, 30 V, 1A
 F http://www.molex.com/webdocs/datasheets/pdf/en-us/0548190572_IO_CONNECTORS.pdf
@@ -97,6 +102,10 @@ D L7805CD2T-TR, Linear Voltage Regulator, 1.5A 5 V, 3-Pin D2PAK
 F http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf
 $ENDCMP
 #
+$CMP LM2575
+F http://www.ti.com/lit/gpn/lm2596
+$ENDCMP
+#
 $CMP LM2575HV-ADJ
 D SIMPLE ADJASTABLE SWITCHER 1.23V to 37V, 1A Low Component Count Step-Down Regulator
 F http://www.ti.com/lit/gpn/lm2575
@@ -108,6 +117,11 @@ $ENDCMP
 #
 $CMP LM2575S-5.0_NOPB
 D SIMPLE SWITCHER 4.5V to 40V, 1A Low Component Count Step-Down Regulator
+F http://www.ti.com/lit/gpn/lm2596
+$ENDCMP
+#
+$CMP LM2596S-ADJ
+D SIMPLE ADJASTABLE SWITCHER 1.23V to 37V, 3A Low Component Count Step-Down Regulator
 F http://www.ti.com/lit/gpn/lm2596
 $ENDCMP
 #
@@ -129,6 +143,11 @@ $ENDCMP
 $CMP RTL8201CP
 D Realtek single-port Phyceiver with MII, PCS, PMA, TP-PMD, TPMAU, 25MHz, 3.3V
 K phyceiver MII PCS PMA TP-PMD TPMAU
+$ENDCMP
+#
+$CMP SIM
+D Smart card solution for eSim product`s
+K smartcard simcard
 $ENDCMP
 #
 $CMP SIM808
@@ -178,6 +197,11 @@ $ENDCMP
 $CMP UX60-MB-5ST
 D USB 2.0
 F http://www.farnell.com/datasheets/1824852.pdf
+$ENDCMP
+#
+$CMP smartcard
+D Smart card solution for eSim product`s
+K smartcard simcard
 $ENDCMP
 #
 #End Doc Library
