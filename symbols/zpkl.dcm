@@ -45,6 +45,17 @@ K TTL nand 2-input buffer
 F http://www.ti.com/lit/gpn/sn74ls37
 $ENDCMP
 #
+$CMP AT91SAM7S256
+D MICROCHIP - AT91SAM7S256D-AU-999 - MCU, ARM7TDMI, 55MHZ, LQFP-64
+K AT91SAM7S256
+F http://ww1.microchip.com/downloads/en/DeviceDoc/doc6175.pdf
+$ENDCMP
+#
+$CMP AT91SAM7S256D-AU-999
+D MICROCHIP - AT91SAM7S256D-AU-999 - MCU, ARM7TDMI, 55MHZ, LQFP-64
+F http://ww1.microchip.com/downloads/en/DeviceDoc/doc6175.pdf
+$ENDCMP
+#
 $CMP BSP742R
 D Smart High-Side Power Switch 34V DSO-8 BSP742R, Intelligent Power Switch High Side Switch, 0.4A, -10 ??? 16V, 8-Pin, PG-DSO-8-24
 F http://docs-europe.electrocomponents.com/webdocs/1074/0900766b8107439c.pdf
