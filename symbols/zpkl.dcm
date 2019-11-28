@@ -151,6 +151,11 @@ D High Speed CAN Transceiver,MCP2551-I/SN
 F http://docs-europe.electrocomponents.com/webdocs/0a78/0900766b80a78cdb.pdf
 $ENDCMP
 #
+$CMP MP1584EN-LF
+D Voltage Regulators - Switching Regulators 3A 1.5MHz 28V Nonsync Buck
+F https://componentsearchengine.com/Datasheets/1/MP1584EN-LF.pdf
+$ENDCMP
+#
 $CMP RTL8201CP
 D Realtek single-port Phyceiver with MII, PCS, PMA, TP-PMD, TPMAU, 25MHz, 3.3V
 K phyceiver MII PCS PMA TP-PMD TPMAU

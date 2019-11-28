@@ -887,6 +887,33 @@ X RS 8 1000 0 200 L 50 50 0 0 U
 ENDDRAW
 ENDDEF
 #
+# MP1584EN-LF
+#
+DEF MP1584EN-LF U 0 30 Y Y 1 F N
+F0 "U" -50 400 50 H V L CNN
+F1 "MP1584EN-LF" -300 300 50 H V L CNN
+F2 "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias" -1000 -500 50 H I L CNN
+F3 "" 450 150 50 H I L CNN
+F4 "Voltage Regulators - Switching Regulators 3A 1.5MHz 28V Nonsync Buck" -1000 -600 50 H I L CNN "Description"
+F5 "1.7" -1000 -700 50 H I L CNN "Height"
+F6 "Monolithic Power Systems (MPS)" -1000 -800 50 H I L CNN "Manufacturer_Name"
+F7 "MP1584EN-LF" -1000 -900 50 H I L CNN "Manufacturer_Part_Number"
+F8 "946-MP1584ENLF" -1000 -1000 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=946-MP1584ENLF" -1000 -1100 50 H I L CNN "Mouser Price/Stock"
+DRAW
+P 5 0 1 6 -400 250 400 250 400 -250 -400 -250 -400 250 f
+X SW 1 600 150 200 L 50 50 0 0 I
+X EN 2 -600 -50 200 R 50 50 0 0 I
+X COMP 3 600 -50 200 L 50 50 0 0 I
+X FB 4 600 50 200 L 50 50 0 0 w
+X GND 5 600 -150 200 L 50 50 0 0 w
+X FREQ 6 -600 -150 200 R 50 50 0 0 B
+X VIN 7 -600 50 200 R 50 50 0 0 W
+X BST 8 -600 150 200 R 50 50 0 0 I
+X TH_PAD 9 0 -450 200 U 50 50 0 0 w
+ENDDRAW
+ENDDEF
+#
 # RTL8201CP
 #
 DEF RTL8201CP U 0 40 Y Y 1 F N
